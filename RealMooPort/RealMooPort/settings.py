@@ -23,7 +23,7 @@ STATIC_DIR = os.path.join(BASE_DIR,'static')
 SECRET_KEY = 'w(e6v4de-$mkp#ekt4nk_-_n17t-y0$qd#df+nktw192t9e+rl'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1:8000','arupongmoo.pythonanywhere.com']
 
